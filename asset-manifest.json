@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pizzahub/static/css/main.fc9094eb.chunk.css",
+    "main.js": "/pizzahub/static/js/main.0e6574f6.chunk.js",
+    "main.js.map": "/pizzahub/static/js/main.0e6574f6.chunk.js.map",
+    "runtime-main.js": "/pizzahub/static/js/runtime-main.02e242ce.js",
+    "runtime-main.js.map": "/pizzahub/static/js/runtime-main.02e242ce.js.map",
+    "static/js/2.7a96d02b.chunk.js": "/pizzahub/static/js/2.7a96d02b.chunk.js",
+    "static/js/2.7a96d02b.chunk.js.map": "/pizzahub/static/js/2.7a96d02b.chunk.js.map",
+    "static/js/3.40aa3740.chunk.js": "/pizzahub/static/js/3.40aa3740.chunk.js",
+    "static/js/3.40aa3740.chunk.js.map": "/pizzahub/static/js/3.40aa3740.chunk.js.map",
+    "index.html": "/pizzahub/index.html",
+    "static/css/main.fc9094eb.chunk.css.map": "/pizzahub/static/css/main.fc9094eb.chunk.css.map",
+    "static/js/2.7a96d02b.chunk.js.LICENSE.txt": "/pizzahub/static/js/2.7a96d02b.chunk.js.LICENSE.txt",
+    "static/media/BaseCheese.2c5ba8bb.png": "/pizzahub/static/media/BaseCheese.2c5ba8bb.png",
+    "static/media/Basil.5387fca4.png": "/pizzahub/static/media/Basil.5387fca4.png",
+    "static/media/Mushroom.8bb1079b.png": "/pizzahub/static/media/Mushroom.8bb1079b.png",
+    "static/media/Olive.0da28a3b.png": "/pizzahub/static/media/Olive.0da28a3b.png",
+    "static/media/Pineapple.33c89c63.png": "/pizzahub/static/media/Pineapple.33c89c63.png",
+    "static/media/PizzaBase.b01ddacc.png": "/pizzahub/static/media/PizzaBase.b01ddacc.png",
+    "static/media/PizzaMan.c91aed81.png": "/pizzahub/static/media/PizzaMan.c91aed81.png",
+    "static/media/Tomato.ed6f5243.png": "/pizzahub/static/media/Tomato.ed6f5243.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e242ce.js",
+    "static/js/2.7a96d02b.chunk.js",
+    "static/css/main.fc9094eb.chunk.css",
+    "static/js/main.0e6574f6.chunk.js"
+  ]
+}
